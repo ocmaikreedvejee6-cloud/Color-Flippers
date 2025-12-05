@@ -1,15 +1,26 @@
-# 🎨 Color Flipper
+🎨 Color Flipper
 
-A simple web app that changes the background color when a button is clicked.
+A simple and fun web app that changes the background color with a single click.
 
-## 🚀 Features
-- Click a button to change background color
-- Supports random color generation
-- Simple and beginner friendly
+🚀 Features
 
-## 🛠 How to Run
-1. Clone or download the repository
-2. Open `index.html` in your browser
-3. Click the button and watch the color change!
+Change background color with a button click
 
-## 📂 Project Structure
+Generates random colors dynamically
+
+Lightweight, fast, and beginner-friendly
+
+🛠 How to Run
+
+Clone or download this repository
+
+Open index.html in any web browser
+
+Click the button and enjoy the color flipping!
+
+📂 Project Structure
+Color-Flippers/
+├── index.html    # Main webpage
+├── style.css     # Styling for layout and appearance
+├── script.js     # Color-changing logic
+└── README.md     # Project documentation
